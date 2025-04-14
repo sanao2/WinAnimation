@@ -1,0 +1,44 @@
+﻿  Animationmain.cpp
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(20,2): error C2653: 'Gdiplus': 클래스 또는 네임스페이스 이름이 아닙니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(20,19): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(20,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(20,21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(22,2): error C2653: 'Gdiplus': 클래스 또는 네임스페이스 이름이 아닙니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(22,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(22,18): error C2146: 구문 오류: ';'이(가) 'bitmapFrame' 식별자 앞에 없습니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(35,14): error C2653: 'Gdiplus': 클래스 또는 네임스페이스 이름이 아닙니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(35,7): error C2182: 'Render': 이 'void' 사용은 유효하지 않습니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(35,39): error C2062: 예기치 않은 'int' 형식입니다.
+  (소스 파일 'Animationmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\Animationmain.cpp(32,50): error C2440: '=': 'Gdiplus::Graphics *'에서 'int *'(으)로 변환할 수 없습니다.
+      C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\Animationmain.cpp(32,50):
+      가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\Animationmain.cpp(43,11): error C2065: 'bitmapFrame': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\Animationmain.cpp(62,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\Animationmain.cpp(65,4): error C2065: 'bitmapFrame': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\Animationmain.cpp(64,4): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\Animationmain.cpp(70,7): error C2365: 'Anim::Render': 재정의: 이전 정의는 '데이터 변수'입니다.
+      C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\animator.h(35,7):
+      'Anim::Render' 선언을 참조하십시오.
+  
+C:\Users\User\Desktop\실험용\APIanim\WInAPIAnim\Animator\Animationmain.cpp(85,34): error C2065: 'bitmapFrame': 선언되지 않은 식별자입니다.
