@@ -1,0 +1,71 @@
+﻿  Animation.cpp
+  Animator.cpp
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.h(9,15): error C2065: 'Animation': 선언되지 않은 식별자입니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.h(9,25): error C2059: 구문 오류: '>'
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.h(11,11): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.h(11,2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.h(11,23): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.h(16,11): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.h(16,2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.h(16,51): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.cpp(8,21): error C3861: 'FindAnimation': 식별자를 찾을 수 없습니다.
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.cpp(21,22): error C2039: 'FindAnimation': 'Animator'의 멤버가 아닙니다.
+      C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.h(6,7):
+      'Animator' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.cpp(23,46): error C2065: 'm_mapAnimation': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.cpp(24,14): error C2065: 'm_mapAnimation': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.cpp(34,17): error C2065: 'm_pCurAnim': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.cpp(36,3): error C2065: 'm_pCurAnim': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Animator.cpp(40,24): error C2614: 'Animator': 멤버 초기화가 잘못되었습니다. 'm_pCurAnim'이(가) 기본 또는 멤버가 아닙니다.
+  PathMgr.cpp
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'PathMgr.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\PathMgr.cpp(9,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Resource.cpp
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Resource.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+  Texture.cpp
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+  Vector2.cpp
+C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Vector2.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\source\repos\WinAnimation\WInAPIAnimww\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
