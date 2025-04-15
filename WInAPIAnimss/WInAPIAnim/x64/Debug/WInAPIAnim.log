@@ -1,0 +1,205 @@
+﻿  Animation.cpp
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30): error C2440: '초기화 중': 'const char [22]'에서 'wchar_t'(으)로 변환할 수 없습니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30):
+      이 변환이 가능한 컨텍스트가 없습니다.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30): error C2439: 'Res::m_strRelativePath': 멤버를 초기화할 수 없습니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,10):
+      'Res::m_strRelativePath' 선언을 참조하십시오.
+  
+  Animator.cpp
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(22,8): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(22,8):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(18,7):
+          클래스 템플릿 'Animator'을(를) 컴파일하는 동안
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(22,2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(22,20): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.h(9,6): error C2011: 'MotionState': 'enum' 형식 재정의
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(7,6):
+      'MotionState' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(25,9): error C2065: 'playerpos': 선언되지 않은 식별자입니다.
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(25,62): error C2248: 'Vector2::x': private 멤버('Vector2' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(7,8):
+      'Vector2::x' 선언을 참조하십시오.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(4,7):
+      'Vector2' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(26,9): error C2065: 'playerpos': 선언되지 않은 식별자입니다.
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(26,62): error C2248: 'Vector2::y': private 멤버('Vector2' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(8,8):
+      'Vector2::y' 선언을 참조하십시오.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(4,7):
+      'Vector2' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(27,48): error C2248: 'Vector2::x': private 멤버('Vector2' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(7,8):
+      'Vector2::x' 선언을 참조하십시오.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(4,7):
+      'Vector2' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(28,48): error C2248: 'Vector2::y': private 멤버('Vector2' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(8,8):
+      'Vector2::y' 선언을 참조하십시오.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(4,7):
+      'Vector2' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(30,38): error C2039: 'vLT': 'AnimFrame'의 멤버가 아닙니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.h(16,8):
+      'AnimFrame' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(31,38): error C2039: 'vLT': 'AnimFrame'의 멤버가 아닙니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.h(16,8):
+      'AnimFrame' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(32,48): error C2248: 'Vector2::x': private 멤버('Vector2' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(7,8):
+      'Vector2::x' 선언을 참조하십시오.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(4,7):
+      'Vector2' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(33,48): error C2248: 'Vector2::y': private 멤버('Vector2' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(8,8):
+      'Vector2::y' 선언을 참조하십시오.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(4,7):
+      'Vector2' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(24,2): error C2660: 'TransparentBlt': 함수는 7개의 인수를 사용하지 않습니다.
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\wingdi.h(4842,23):
+      'TransparentBlt' 선언을 참조하십시오.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(24,2):
+      인수 목록 '(HDC, int, int, HDC, int, int, DWORD)'을(를) 일치시키는 동안
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(52,38): error C2440: '초기화 중': 'nullptr'에서 'wchar_t'(으)로 변환할 수 없습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(52,38):
+      네이티브 nullptr은 bool로만 변환할 수 있지만 reinterpret_cast를 사용하면 정수 계열 형식으로 변환할 수 있습니다.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.cpp(52,38): error C2439: 'Animation::current_Anim': 멤버를 초기화할 수 없습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.h(28,14):
+      'Animation::current_Anim' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30): error C2440: '초기화 중': 'const char [22]'에서 'wchar_t'(으)로 변환할 수 없습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30):
+      이 변환이 가능한 컨텍스트가 없습니다.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30): error C2439: 'Res::m_strRelativePath': 멤버를 초기화할 수 없습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,10):
+      'Res::m_strRelativePath' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(7,6): error C2011: 'MotionState': 'enum' 형식 재정의
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animation.h(9,6):
+      'MotionState' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(5,22): error C2955: 'Animator': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(18,7):
+      'Animator' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(5,22): error C2761: 'Animation *Animator<T>::FindAnimation(const std::wstring &)': 멤버를 재선언할 수 없습니다.
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(16,1): error C2062: 예기치 않은 'void' 형식입니다.
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(16,16): error C2955: 'Animator': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(18,7):
+      'Animator' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(17,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(17,1): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(17,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(31,16): error C2955: 'Animator': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(18,7):
+      'Animator' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(31,16): error C2509: 'Update': 멤버 함수를 'Animator'에서 선언하지 않았습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(18,7):
+      'Animator' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(39,11): error C2955: 'Animator': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(18,7):
+      'Animator' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(39,11): error C2509: '{ctor}': 멤버 함수를 'Animator'에서 선언하지 않았습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(18,7):
+      'Animator' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(42,12): error C2955: 'Animator': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(18,7):
+      'Animator' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.cpp(42,12): error C2509: '{dtor}': 멤버 함수를 'Animator'에서 선언하지 않았습니다.
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Animator.h(18,7):
+      'Animator' 선언을 참조하십시오.
+  
+  PathMgr.cpp
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'PathMgr.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\PathMgr.cpp(9,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Resource.cpp
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Resource.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30): error C2440: '초기화 중': 'const char [22]'에서 'wchar_t'(으)로 변환할 수 없습니다.
+  (소스 파일 'Resource.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30):
+      이 변환이 가능한 컨텍스트가 없습니다.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30): error C2439: 'Res::m_strRelativePath': 멤버를 초기화할 수 없습니다.
+  (소스 파일 'Resource.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,10):
+      'Res::m_strRelativePath' 선언을 참조하십시오.
+  
+  Texture.cpp
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30): error C2440: '초기화 중': 'const char [22]'에서 'wchar_t'(으)로 변환할 수 없습니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30):
+      이 변환이 가능한 컨텍스트가 없습니다.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,30): error C2439: 'Res::m_strRelativePath': 멤버를 초기화할 수 없습니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Resource.h(9,10):
+      'Res::m_strRelativePath' 선언을 참조하십시오.
+  
+  main.cpp
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\main.cpp(2,8): warning C4081: '식별자'이(가) 있어야 하는데 '('이(가) 있습니다.
+  Vector2.cpp
+C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(29,4): error C2561: 'Vector2::Normalize': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Vector2.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\WinAnimation\WInAPIAnims\WInAPIAnim\Vector2.h(23,11):
+      'Vector2::Normalize' 선언을 참조하십시오.
+  
+  코드를 생성하고 있습니다...
